@@ -1,0 +1,9 @@
+./pop \
+
+ --ram 8 \              # RAM in GB
+
+ --max-disk 250 \       # Max disk usage in GB  
+
+ --cache-dir /data \    # Cache location
+
+ --pubKey EtbGHistsM3dE51ADCC45AHZvmXpTRizWwc5AQnsK9Jt         # Solana public key (Address)
